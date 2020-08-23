@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1526070891 source:c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\button.cpp
+	"widget.hpp"
+	"button.hpp"
+	"graphics.hpp"
+
+1526205302 c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\widget.hpp
+	"graphics.hpp"
+
+1488260528 c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\include\graphics.hpp
+	<string>
+
+1526070898 c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\button.hpp
+	"graphics.hpp"
+	"widget.hpp"
+	<functional>
+
+1526217697 source:c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\field.cpp
+	"field.hpp"
+	"graphics.hpp"
+	"widget.hpp"
+	<cmath>
+
+1526205390 c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\field.hpp
+	"graphics.hpp"
+	"widget.hpp"
+
+1526217894 source:c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\widget.cpp
+	"widget.hpp"
+	"graphics.hpp"
+
+1526216628 source:c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\window.cpp
+	"window.hpp"
+
+1526216584 c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\window.hpp
+	<vector>
+	"widget.hpp"
+
+1526224522 source:c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\gamecontroller.cpp
+	"gameController.hpp"
+	<vector>
+	<time.h>
+	<stdlib.h>
+
+1526216883 c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\gamecontroller.hpp
+	<vector>
+
+1526288875 source:c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\main.cpp
+	"graphics.hpp"
+	"window.hpp"
+	"field.hpp"
+	"gameController.hpp"
+	<vector>
+	"ship.hpp"
+	<cmath>
+	"staticText.hpp"
+	"background.hpp"
+
+1526217759 source:c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\ship.cpp
+	"ship.hpp"
+	"graphics.hpp"
+	"widget.hpp"
+
+1526205363 c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\ship.hpp
+	"widget.hpp"
+
+1526217945 source:c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\statictext.cpp
+	"staticText.hpp"
+	"widget.hpp"
+	<string>
+
+1526209469 c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\statictext.hpp
+	<string>
+	"widget.hpp"
+
+1526221854 source:c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\background.cpp
+	"widget.hpp"
+	"background.hpp"
+
+1526221839 c:\users\boti\desktop\pázmány\2. félév\bevprog 2\beadandók\3. beadandó\background.hpp
+	"widget.hpp"
+
+1526221856 source:c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\background.cpp
+	"widget.hpp"
+	"background.hpp"
+
+1526205304 c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\widget.hpp
+	"graphics.hpp"
+
+1488260528 c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\include\graphics.hpp
+	<string>
+
+1526221840 c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\background.hpp
+	"widget.hpp"
+
+1526217698 source:c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\field.cpp
+	"field.hpp"
+	"graphics.hpp"
+	"widget.hpp"
+	<cmath>
+
+1526205392 c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\field.hpp
+	"graphics.hpp"
+	"widget.hpp"
+
+1526224524 source:c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\gamecontroller.cpp
+	"gameController.hpp"
+	<vector>
+	<time.h>
+	<stdlib.h>
+
+1526216884 c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\gamecontroller.hpp
+	<vector>
+
+1526288876 source:c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\main.cpp
+	"graphics.hpp"
+	"window.hpp"
+	"field.hpp"
+	"gameController.hpp"
+	<vector>
+	"ship.hpp"
+	<cmath>
+	"staticText.hpp"
+	"background.hpp"
+
+1526216586 c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\window.hpp
+	<vector>
+	"widget.hpp"
+
+1526205364 c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\ship.hpp
+	"widget.hpp"
+
+1526209470 c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\statictext.hpp
+	<string>
+	"widget.hpp"
+
+1526217760 source:c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\ship.cpp
+	"ship.hpp"
+	"graphics.hpp"
+	"widget.hpp"
+
+1526217946 source:c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\statictext.cpp
+	"staticText.hpp"
+	"widget.hpp"
+	<string>
+
+1526217896 source:c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\widget.cpp
+	"widget.hpp"
+	"graphics.hpp"
+
+1526216630 source:c:\users\ungbo\desktop\pazmany\2. félév\bevprog 2\beadandók\3. beadandó\window.cpp
+	"window.hpp"
+
